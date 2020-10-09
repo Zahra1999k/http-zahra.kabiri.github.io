@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<img src="https://avatars2.githubusercontent.com/u/72122163?s=400&u=f74b75092016a0a17a813c06d34de50cca0a1e20&v=4"/>
+### About Me
 
-You can use the [editor on GitHub](https://github.com/Zahra1999k/http-zahra.kabiri.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Zahra kabiri seresht.Studying at payame Noor University.Five semesters of computer engineering.Softwere Orientation.
+I started with C and C++ and I have an acceptable command of there computer languages.
+As well as working with a computer that I have average skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal Information
 
-### Markdown
+Name:Zahra
+Last name:Kabiri seresht
+Date of birth:1378/09/28
+Job status:vacant
+Marital status:single
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
 
-```markdown
-Syntax highlighted code block
+C++ , Word , PowerPoint:To some extent
 
-# Header 1
-## Header 2
-### Header 3
+###Language
 
-- Bulleted
-- List
+Persian:Completely fluent
+English:Weak
 
-1. Numbered
-2. List
+### Work experience
 
-**Bold** and _Italic_ and `Code` text
+nothing
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Project
 
-### Jekyll Themes
+nothing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zahra1999k/http-zahra.kabiri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Persian Resume:<a href="
